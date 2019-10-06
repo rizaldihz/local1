@@ -1,0 +1,36 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "short_name": "PetrogasHulu",
+    "name": "PetrogasHulu Report",
+    "theme_color": "#CD2A1D",
+    "background_color": "#F7F8F9",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "ic_launcher/res/mipmap-mdpi/ic_launcher.png",
+            "type": "image/png",
+            "sizes": "48x48"
+        },
+        {
+            "src": "ic_launcher/res/mipmap-xhdpi/ic_launcher.png",
+            "type": "image/png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "ic_launcher/res/mipmap-xxhdpi/ic_launcher.png",
+            "type": "image/png",
+            "sizes": "144x144"
+        },
+        {
+            "src": "ic_launcher/res/mipmap-xxxhdpi/ic_launcher.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "ic_launcher/web_hi_res_512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
